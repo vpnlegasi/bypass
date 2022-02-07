@@ -1,5 +1,5 @@
-# netflix-checker
+# bypass
 
 ```html
-wget https://raw.githubusercontent.com/vpnlegasi/netflix-checker/main/warp.sh && chmod +x warp.sh && screen -S warp ./warp.sh
+wget https://raw.githubusercontent.com/vpnlegasi/bypass/main/bypass.sh && chmod +x bypass.sh && screen -S bypass ./bypass.sh
 ```
